@@ -1,6 +1,7 @@
 site_name: USTBAANA 北京科技大学北美校友会
 site_description: USTBAANA 北京科技大学北美校友会
 site_favicon: images/favicon.ico
+google_analytics: ['UA-74052609-1', 'ustbaana.org']
 theme: mkdocs
 markdown_extensions:
   - admonition
