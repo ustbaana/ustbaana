@@ -7,7 +7,7 @@ Links
 
 * 聊天，侃大山，推荐加入微信群：
 
-![北美校友会微信群](images/allen_qrcode.png)
+![北美校友会微信群](https://dl.dropboxusercontent.com/u/2705545/20150214WechatGroup/qrcode.png)
 
 * 订阅官方消息，推荐关注公众号：
 
