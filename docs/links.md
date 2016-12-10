@@ -11,7 +11,7 @@ Links
 
 * 订阅官方消息，推荐关注公众号：
 
-![北美校友会微信群](images/mp_ustbaana_qrcode.jpg)
+![北美校友会微信群](https://dl.dropboxusercontent.com/u/2705545/20150214WechatGroup/mp_ustbaana_qrcode.jpg)
 
 * 北京科技大学校友总网: [http://alumni.ustb.edu.cn](http://alumni.ustb.edu.cn)
 
