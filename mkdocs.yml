@@ -12,6 +12,8 @@ pages:
   - Home: 'index.md'
   - News:
     - 'Website Update': 'news_20161209.md'
-    - 'Special Thanks': 'news_20090618.md'
+    - 'USTB 60th Anniversary': 'news_20120524.md'
+    - 'Yonglu Zhao Seminar': 'news_20070913.md'
+  - 'Special Thanks': 'news_20090618.md'
   - Links: 'links.md'
   - About Us: 'about.md'
