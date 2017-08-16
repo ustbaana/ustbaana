@@ -11,6 +11,8 @@ docs_dir: docs
 pages:
   - Home: 'index.md'
   - News:
+    - '芝加哥2017野餐联谊会': 'news_20170816.md'
+    - '芝加哥校友会成立': 'news_20170427.md'
     - 'Website Update': 'news_20161209.md'
     - 'USTB 60th Anniversary': 'news_20120524.md'
     - 'Yonglu Zhao Seminar': 'news_20070913.md'
