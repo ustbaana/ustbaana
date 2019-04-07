@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Home\n\n\n\n\n\u6b22\u8fce\u5927\u5bb6\u52a0\u5165\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u7fa4\uff0c\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u4ee5\u4e0b\u4e8c\u7ef4\u7801\uff1a\n\n\n\n\n\u6b22\u8fce\u5927\u5bb6\u5173\u6ce8\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u516c\u4f17\u53f7\uff0c\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u4ee5\u4e0b\u4e8c\u7ef4\u7801\uff1a", 
+            "text": "Home\n\n\n\n\n\u6b22\u8fce\u5927\u5bb6\u52a0\u5165\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u7fa4\uff0c\u8fdb\u7fa4\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u7fa4\u4e3b\u4e8c\u7ef4\u7801\uff0c\u5e76\u544a\u77e5\u7fa4\u4e3b\u771f\u5b9e\u59d3\u540d\uff0c\u4e13\u4e1a\u5e74\u7ea7\uff0c\u73b0\u4f4f\u57ce\u5e02\uff1a", 
             "title": "Home"
         }, 
         {
             "location": "/#home", 
-            "text": "\u6b22\u8fce\u5927\u5bb6\u52a0\u5165\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u7fa4\uff0c\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u4ee5\u4e0b\u4e8c\u7ef4\u7801\uff1a   \u6b22\u8fce\u5927\u5bb6\u5173\u6ce8\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u516c\u4f17\u53f7\uff0c\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u4ee5\u4e0b\u4e8c\u7ef4\u7801\uff1a", 
+            "text": "\u6b22\u8fce\u5927\u5bb6\u52a0\u5165\u5317\u7f8e\u6821\u53cb\u4f1a\u5fae\u4fe1\u7fa4\uff0c\u8fdb\u7fa4\u8bf7\u7528\u624b\u673a\u5fae\u4fe1\u626b\u63cf\u7fa4\u4e3b\u4e8c\u7ef4\u7801\uff0c\u5e76\u544a\u77e5\u7fa4\u4e3b\u771f\u5b9e\u59d3\u540d\uff0c\u4e13\u4e1a\u5e74\u7ea7\uff0c\u73b0\u4f4f\u57ce\u5e02\uff1a", 
             "title": "Home"
         }, 
         {
@@ -72,22 +72,22 @@
         }, 
         {
             "location": "/links/", 
-            "text": "Links\n\n\n\n\n\n\n\u627e\u5de5\u4f5c\uff0c\u62d3\u5c55\u4eba\u8109\uff0c\u63a8\u8350\u52a0\u5165 \n\u5317\u7f8e\u6821\u53cb\u4f1a LinkedIn group\n\n\n\n\n\n\n\u5176\u6b21\u63a8\u8350\u52a0\u5165 \n\u5317\u7f8e\u6821\u53cb\u4f1a facebook group\n\n\n\n\n\n\n\u804a\u5929\uff0c\u4f83\u5927\u5c71\uff0c\u63a8\u8350\u52a0\u5165\u5fae\u4fe1\u7fa4\uff1a\n\n\n\n\n\n\n\n\n\n\n\u8ba2\u9605\u5b98\u65b9\u6d88\u606f\uff0c\u63a8\u8350\u5173\u6ce8\u516c\u4f17\u53f7\uff1a\n\n\n\n\n\n\n\n\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u6821\u53cb\u603b\u7f51: \nhttp://alumni.ustb.edu.cn\n\n\n\n\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5b98\u7f51: \nhttp://www.ustb.edu.cn", 
+            "text": "Links\n\n\n\n\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u6821\u53cb\u603b\u7f51: \nhttp://alumni.ustb.edu.cn\n\n\n\n\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5b98\u7f51: \nhttp://www.ustb.edu.cn", 
             "title": "Links"
         }, 
         {
             "location": "/links/#links", 
-            "text": "\u627e\u5de5\u4f5c\uff0c\u62d3\u5c55\u4eba\u8109\uff0c\u63a8\u8350\u52a0\u5165  \u5317\u7f8e\u6821\u53cb\u4f1a LinkedIn group    \u5176\u6b21\u63a8\u8350\u52a0\u5165  \u5317\u7f8e\u6821\u53cb\u4f1a facebook group    \u804a\u5929\uff0c\u4f83\u5927\u5c71\uff0c\u63a8\u8350\u52a0\u5165\u5fae\u4fe1\u7fa4\uff1a      \u8ba2\u9605\u5b98\u65b9\u6d88\u606f\uff0c\u63a8\u8350\u5173\u6ce8\u516c\u4f17\u53f7\uff1a      \u5317\u4eac\u79d1\u6280\u5927\u5b66\u6821\u53cb\u603b\u7f51:  http://alumni.ustb.edu.cn    \u5317\u4eac\u79d1\u6280\u5927\u5b66\u5b98\u7f51:  http://www.ustb.edu.cn", 
+            "text": "\u5317\u4eac\u79d1\u6280\u5927\u5b66\u6821\u53cb\u603b\u7f51:  http://alumni.ustb.edu.cn    \u5317\u4eac\u79d1\u6280\u5927\u5b66\u5b98\u7f51:  http://www.ustb.edu.cn", 
             "title": "Links"
         }, 
         {
             "location": "/about/", 
-            "text": "About USTBAANA\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u7acb\u4e8e1998\u5e74\uff0c\u5b98\u65b9\u7f51\u5740\u662f\nhttp://www.ustbaana.org\n\u3002\n\n\nUniversity of Science and Technology Beijing (USTB)-Alumni Association in North America (AANA) was found in 1998. The official website is at \nhttp://www.ustbaana.org\n.\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u5458\u5305\u62ec\u66fe\u5728\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5de5\u4f5c\u6216\u5b66\u4e60, \u73b0\u5728\u5317\u7f8e\u5730\u533a\u5c45\u4f4f\u7684\u6821\u53cb. \u540c\u65f6\u4e5f\u6b22\u8fce\u5176\u4ed6\u56fd\u5bb6\u548c\u5730\u533a\u7684\u6821\u53cb\u52a0\u5165\u3002\n\n\nThe alumni include people who ever worked or studied in USTB, and currently living in North America. Alumni in other countries are also welcome to join this group.\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u7f51\u5740: \nhttp://www.ustb.edu.cn\n\u3002\n\n\nThe official website of the University of Science and Technology Beijing: \nhttp://www.ustb.edu.cn\n.", 
+            "text": "About USTBAANA\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u7acb\u4e8e1998\u5e74\uff0c\u5b98\u65b9\u7f51\u5740\u662f\nhttp://www.ustbaana.org\n\u3002\n\n\nUniversity of Science and Technology Beijing (USTB)-Alumni Association in North America (AANA) was found in 1998. The official website is at \nhttp://www.ustbaana.org\n.\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u5458\u5305\u62ec\u66fe\u5728\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5de5\u4f5c\u6216\u5b66\u4e60, \u73b0\u5728\u5317\u7f8e\u5730\u533a\u5c45\u4f4f\u7684\u6821\u53cb. \n\n\nThe alumni include people who ever worked or studied in USTB, and currently living in North America.\n\n\n\u5317\u4eac\u79d1\u6280\u5927\u5b66\u7f51\u5740: \nhttp://www.ustb.edu.cn\n\u3002\n\n\nThe official website of the University of Science and Technology Beijing: \nhttp://www.ustb.edu.cn\n.", 
             "title": "About Us"
         }, 
         {
             "location": "/about/#about-ustbaana", 
-            "text": "\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u7acb\u4e8e1998\u5e74\uff0c\u5b98\u65b9\u7f51\u5740\u662f http://www.ustbaana.org \u3002  University of Science and Technology Beijing (USTB)-Alumni Association in North America (AANA) was found in 1998. The official website is at  http://www.ustbaana.org .  \u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u5458\u5305\u62ec\u66fe\u5728\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5de5\u4f5c\u6216\u5b66\u4e60, \u73b0\u5728\u5317\u7f8e\u5730\u533a\u5c45\u4f4f\u7684\u6821\u53cb. \u540c\u65f6\u4e5f\u6b22\u8fce\u5176\u4ed6\u56fd\u5bb6\u548c\u5730\u533a\u7684\u6821\u53cb\u52a0\u5165\u3002  The alumni include people who ever worked or studied in USTB, and currently living in North America. Alumni in other countries are also welcome to join this group.  \u5317\u4eac\u79d1\u6280\u5927\u5b66\u7f51\u5740:  http://www.ustb.edu.cn \u3002  The official website of the University of Science and Technology Beijing:  http://www.ustb.edu.cn .", 
+            "text": "\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u7acb\u4e8e1998\u5e74\uff0c\u5b98\u65b9\u7f51\u5740\u662f http://www.ustbaana.org \u3002  University of Science and Technology Beijing (USTB)-Alumni Association in North America (AANA) was found in 1998. The official website is at  http://www.ustbaana.org .  \u5317\u4eac\u79d1\u6280\u5927\u5b66\u5317\u7f8e\u6821\u53cb\u4f1a\u6210\u5458\u5305\u62ec\u66fe\u5728\u5317\u4eac\u79d1\u6280\u5927\u5b66\u5de5\u4f5c\u6216\u5b66\u4e60, \u73b0\u5728\u5317\u7f8e\u5730\u533a\u5c45\u4f4f\u7684\u6821\u53cb.   The alumni include people who ever worked or studied in USTB, and currently living in North America.  \u5317\u4eac\u79d1\u6280\u5927\u5b66\u7f51\u5740:  http://www.ustb.edu.cn \u3002  The official website of the University of Science and Technology Beijing:  http://www.ustb.edu.cn .", 
             "title": "About USTBAANA"
         }
     ]
